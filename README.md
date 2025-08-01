@@ -5,7 +5,7 @@
 
 ## Data
 
-You will work with a dataset containing information about financial transactions. Below is a summary of the key columns provided:
+We will work with a dataset containing information about financial transactions. Below is a summary of the key columns provided:
 
 | **Column**              | **Description**                                                                                   |
 |--------------------------|---------------------------------------------------------------------------------------------------|
